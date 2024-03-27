@@ -20,4 +20,4 @@ $ make compile
 
 # Report
 
-A more detailed report can be found in [here](https://github.com/EnderturtleOrz/5-Stage-Pipelined-CPU-MIPS32/blob/main/report/report/report.pdf).
+A more detailed report can be found in [here](https://github.com/EnderturtleOrz/5-Stage-Pipelined-CPU-MIPS32/blob/master/report/report.pdf)
